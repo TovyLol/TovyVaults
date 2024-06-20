@@ -1,0 +1,7 @@
+name: TVaults
+version: '0'
+main: cores.tovy.github.tvaults.Main
+api-version: '1.19'
+commands:
+  pv:
+    description: Open the gui for youre playervault!

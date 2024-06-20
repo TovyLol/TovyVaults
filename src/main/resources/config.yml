@@ -1,0 +1,8 @@
+block-exceptions:
+  -
+  -
+# You will need to use block id's basically just DIAMOND_BLOCK or RED_DYE
+item-exceptions:
+  - ""
+  - ""
+# full names will be rejected from the vaults
